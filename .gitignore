@@ -1,0 +1,11 @@
+dist/*
+!dist/.gitkeep
+config.json
+config.yaml
+config.yml
+config
+.config
+vendor/
+lycan
+lycan.exe
+.idea/
